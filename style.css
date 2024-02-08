@@ -117,5 +117,6 @@ h4{
 @media (max-width: 480px) {
     .card {
       padding: 10px 5px;
+      margin: 10px auto;
     }
   }
